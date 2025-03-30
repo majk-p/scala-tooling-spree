@@ -1,3 +1,7 @@
+This repository has been moved to https://github.com/scalameta/scala-tooling-spree
+
+---
+
 # Scala Tooling Spree
 
 This repository hosts the landing page for Scala tooling spree initiative
